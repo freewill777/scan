@@ -1,0 +1,278 @@
+<pre>Array
+(
+    [0] => composer.json
+    [1] => composer.lock
+    [2] => dmp2.txt
+    [3] => dump.txt
+    [4] => img
+    [5] => img.jpg
+    [6] => index.php
+    [7] => no-bg.png
+    [8] => scan.php
+    [9] => scandir.php
+    [10] => test.txt
+    [11] => vendor
+)
+</pre><pre>Array
+(
+    [0] => img
+    [1] => scan.php
+    [2] => composer.lock
+    [3] => composer.json
+    [4] => dump.txt
+    [5] => test.txt
+    [6] => no-bg.png
+    [7] => index.php
+    [8] => img.jpg
+    [9] => dmp2.txt
+    [10] => scandir.php
+    [11] => vendor
+)
+</pre><pre>Array
+(
+    [0] => composer.json
+    [1] => composer.lock
+    [2] => dmp2.txt
+    [3] => dump.txt
+    [img] => Array
+        (
+            [0] => ECBX6074.jpg
+            [1] => IMG-20200717-WA0003.jpg
+            [2] => IMG-20200717-WA0004.jpg
+            [3] => IMG-20200717-WA0006.jpg
+            [4] => IMG-20200717-WA0007.jpg
+            [5] => IMG-20200717-WA0009.jpg
+            [6] => IMG-20200717-WA0010.jpg
+            [7] => IMG-20200717-WA0011.jpg
+            [8] => IMG-20200717-WA0012.jpg
+            [9] => IMG-20200717-WA0013.jpg
+            [10] => IMG-20200717-WA0017.jpg
+            [11] => IMG-20200717-WA0018.jpg
+            [12] => IMG-20200717-WA0020.jpg
+            [13] => IMG-20200717-WA0021.jpg
+            [14] => IMG-20200730-WA0003.jpg
+            [15] => IMG-20200730-WA0004.jpg
+            [16] => IMG-20200730-WA0010.jpg
+            [17] => IMG-20200730-WA0015.jpg
+            [18] => IMG-20200730-WA0018.jpg
+            [19] => IMG-20200730-WA0019.jpg
+            [20] => IMG-20200730-WA0023.jpg
+            [21] => IMG-20200730-WA0024.jpg
+            [22] => VBNL8717.jpg
+        )
+
+    [4] => img.jpg
+    [5] => index.php
+    [6] => no-bg.png
+    [7] => scan.php
+    [8] => scandir.php
+    [9] => test.txt
+    [vendor] => Array
+        (
+            [0] => autoload.php
+            [bin] => Array
+                (
+                )
+
+            [composer] => Array
+                (
+                    [0] => ClassLoader.php
+                    [1] => LICENSE
+                    [2] => autoload_classmap.php
+                    [3] => autoload_files.php
+                    [4] => autoload_namespaces.php
+                    [5] => autoload_psr4.php
+                    [6] => autoload_real.php
+                    [7] => autoload_static.php
+                    [8] => installed.json
+                )
+
+            [guzzlehttp] => Array
+                (
+                    [guzzle] => Array
+                        (
+                            [0] => CHANGELOG.md
+                            [1] => LICENSE
+                            [2] => README.md
+                            [3] => UPGRADING.md
+                            [4] => composer.json
+                            [src] => Array
+                                (
+                                    [0] => Client.php
+                                    [1] => ClientInterface.php
+                                    [2] => ClientTrait.php
+                                    [Cookie] => Array
+                                        (
+                                            [0] => CookieJar.php
+                                            [1] => CookieJarInterface.php
+                                            [2] => FileCookieJar.php
+                                            [3] => SessionCookieJar.php
+                                            [4] => SetCookie.php
+                                        )
+
+                                    [Exception] => Array
+                                        (
+                                            [0] => BadResponseException.php
+                                            [1] => ClientException.php
+                                            [2] => ConnectException.php
+                                            [3] => GuzzleException.php
+                                            [4] => InvalidArgumentException.php
+                                            [5] => RequestException.php
+                                            [6] => ServerException.php
+                                            [7] => TooManyRedirectsException.php
+                                            [8] => TransferException.php
+                                        )
+
+                                    [Handler] => Array
+                                        (
+                                            [0] => CurlFactory.php
+                                            [1] => CurlFactoryInterface.php
+                                            [2] => CurlHandler.php
+                                            [3] => CurlMultiHandler.php
+                                            [4] => EasyHandle.php
+                                            [5] => MockHandler.php
+                                            [6] => Proxy.php
+                                            [7] => StreamHandler.php
+                                        )
+
+                                    [3] => HandlerStack.php
+                                    [4] => MessageFormatter.php
+                                    [5] => Middleware.php
+                                    [6] => Pool.php
+                                    [7] => PrepareBodyMiddleware.php
+                                    [8] => RedirectMiddleware.php
+                                    [9] => RequestOptions.php
+                                    [10] => RetryMiddleware.php
+                                    [11] => TransferStats.php
+                                    [12] => Utils.php
+                                    [13] => functions.php
+                                    [14] => functions_include.php
+                                )
+
+                        )
+
+                    [promises] => Array
+                        (
+                            [0] => CHANGELOG.md
+                            [1] => LICENSE
+                            [2] => Makefile
+                            [3] => README.md
+                            [4] => composer.json
+                            [src] => Array
+                                (
+                                    [0] => AggregateException.php
+                                    [1] => CancellationException.php
+                                    [2] => Coroutine.php
+                                    [3] => EachPromise.php
+                                    [4] => FulfilledPromise.php
+                                    [5] => Promise.php
+                                    [6] => PromiseInterface.php
+                                    [7] => PromisorInterface.php
+                                    [8] => RejectedPromise.php
+                                    [9] => RejectionException.php
+                                    [10] => TaskQueue.php
+                                    [11] => TaskQueueInterface.php
+                                    [12] => functions.php
+                                    [13] => functions_include.php
+                                )
+
+                        )
+
+                    [psr7] => Array
+                        (
+                            [0] => CHANGELOG.md
+                            [1] => LICENSE
+                            [2] => README.md
+                            [3] => composer.json
+                            [src] => Array
+                                (
+                                    [0] => AppendStream.php
+                                    [1] => BufferStream.php
+                                    [2] => CachingStream.php
+                                    [3] => DroppingStream.php
+                                    [4] => FnStream.php
+                                    [5] => InflateStream.php
+                                    [6] => LazyOpenStream.php
+                                    [7] => LimitStream.php
+                                    [8] => MessageTrait.php
+                                    [9] => MultipartStream.php
+                                    [10] => NoSeekStream.php
+                                    [11] => PumpStream.php
+                                    [12] => Request.php
+                                    [13] => Response.php
+                                    [14] => Rfc7230.php
+                                    [15] => ServerRequest.php
+                                    [16] => Stream.php
+                                    [17] => StreamDecoratorTrait.php
+                                    [18] => StreamWrapper.php
+                                    [19] => UploadedFile.php
+                                    [20] => Uri.php
+                                    [21] => UriNormalizer.php
+                                    [22] => UriResolver.php
+                                    [23] => functions.php
+                                    [24] => functions_include.php
+                                )
+
+                        )
+
+                )
+
+            [psr] => Array
+                (
+                    [http-client] => Array
+                        (
+                            [0] => CHANGELOG.md
+                            [1] => LICENSE
+                            [2] => README.md
+                            [3] => composer.json
+                            [src] => Array
+                                (
+                                    [0] => ClientExceptionInterface.php
+                                    [1] => ClientInterface.php
+                                    [2] => NetworkExceptionInterface.php
+                                    [3] => RequestExceptionInterface.php
+                                )
+
+                        )
+
+                    [http-message] => Array
+                        (
+                            [0] => CHANGELOG.md
+                            [1] => LICENSE
+                            [2] => README.md
+                            [3] => composer.json
+                            [src] => Array
+                                (
+                                    [0] => MessageInterface.php
+                                    [1] => RequestInterface.php
+                                    [2] => ResponseInterface.php
+                                    [3] => ServerRequestInterface.php
+                                    [4] => StreamInterface.php
+                                    [5] => UploadedFileInterface.php
+                                    [6] => UriInterface.php
+                                )
+
+                        )
+
+                )
+
+            [ralouphie] => Array
+                (
+                    [getallheaders] => Array
+                        (
+                            [0] => LICENSE
+                            [1] => README.md
+                            [2] => composer.json
+                            [src] => Array
+                                (
+                                    [0] => getallheaders.php
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+</pre>
